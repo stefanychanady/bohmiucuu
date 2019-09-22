@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ziefialohp.trombeard.com/sitemap.xml
